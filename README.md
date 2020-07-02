@@ -1,4 +1,4 @@
-# GraphQL-yoga-ReactHooks
+# GraphQL-ReactHooks
 Client-Server Architecture
 
 
